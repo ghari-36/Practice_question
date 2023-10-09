@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccf1bfb4-3661-42c6-bd6c-500effd223ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtomicSynchronization/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtomicSynchronization/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtomicSynchronization/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtomicSynchronization/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparable/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableInterfaceExemple/CaeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableInterfaceExemple/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparableInterfaceExemple/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparator/MarksComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumerProducerMutex/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumerProducerMutex/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumerProducerMutex/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomException/InvalidAgeExcetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomException/ageValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomException/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/NestedTryBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/mergesorter/MergeSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/mergesorter/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/printnumber/NoToPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executors/printnumber/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalInterfaceDemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollectorDemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollectorDemo/Garbage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/AddandIterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/BookExemple/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/BookExemple/HashBookTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashTable/GetOrDefaultExemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaDemo/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaDemo/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapClass/BookExemple/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapClass/BookExemple/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapClass/exemple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedHashMapClass/exemple2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mutex/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mutex/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mutex/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mutex/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProBuilder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProBuilder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTpyeDesign/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTpyeDesign/ProtoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTpyeDesign/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProtoTpyeDesign/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton_single/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton_single/DoubleCheck/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton_single/DoubleCheck/dbConnection1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton_single/Eager/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamDemo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamDemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperDemo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperDemo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperDemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperDemo/PussyCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronized/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronized/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronized/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronized/Static/StaticCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Synchronized/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisDemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisDemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/PrintNumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeMapClass/NavigableMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeMapClass/exemple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wrapper/WrapperExemple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceExemple/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronization/AdderSubtractor/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronization/AdderSubtractor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronization/AdderSubtractor/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronization/AdderSubtractor/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vehicle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vehicle/Spelendor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vehicle/client.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VbRNkVH4R5fsHmCtDPcHWFqRCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/practice/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="synchronization.AdderSubtractor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="ArrayListExemple4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.objectpass.ArrayListExemple4" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayList.objectpass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.Client" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comparable.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparable.Client" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comparator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparator.Client" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomException.client" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CustomException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.ArrayListExemple4" />
+        <item itemvalue="Application.Comparator.Client" />
+        <item itemvalue="Application.Comparable.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf1bfb4-3661-42c6-bd6c-500effd223ca" name="Changes" comment="" />
+      <created>1695102760752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695102760752</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProtoTpyeDesign/Client.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
